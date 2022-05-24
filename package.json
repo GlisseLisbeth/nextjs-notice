@@ -6,8 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "@theme-ui/presets": "^0.14.5",
+    "body-parser": "^1.20.0",
+    "dotenv-load": "^2.0.1",
+    "next": "^12.1.6",
+    "next-connect": "^0.12.2",
+    "next-env": "^1.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "theme-ui": "^0.14.5"
   }
 }
